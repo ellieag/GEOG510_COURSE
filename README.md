@@ -1,2 +1,3 @@
 # GEOG510_COURSE
-practice repo for GEOG510 2024
+practice repo for GEOG510 2024 MYP
+
